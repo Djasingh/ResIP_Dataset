@@ -1,6 +1,6 @@
 Researcher Influence Prediction using Academic Genealogy Dataset
 
-Dataset Instruction:
+Instruction:
 
 1. Unzip dataset folder
 2. The folder contains multiple numpy or pickle files
