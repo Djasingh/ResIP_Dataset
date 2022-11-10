@@ -2,7 +2,7 @@ Researcher Influence Prediction using Academic Genealogy Dataset
 
 Instruction:
 
-1. Unzip dataset folder
+1. Unzip dataset.tar.bz2
 2. The folder contains multiple numpy or pickle files
 3. The file names show the dataset used with methods described in the paper.
 4. For ResIP-M1 and ResIP-M2 the train and test data contains input, single output (ResIP-M1), and output sequence (ResIP-M2) in tuple
