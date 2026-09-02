@@ -90,7 +90,3 @@ If you use this dataset, please cite:
   doi     = {10.1016/j.joi.2023.101392}
 }
 ```
-
-## License
-
-Specify license here.
